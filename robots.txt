@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-room-note.maphoshirts.space/sitemap.xml
+Sitemap: https://sangsu-room-note.maphoshirts.space/sitemap-pages.xml
